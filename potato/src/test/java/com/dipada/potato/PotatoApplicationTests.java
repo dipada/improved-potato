@@ -1,13 +1,13 @@
-package com.dipada.appppp;
+package com.dipada.potato;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApppppApplicationTests {
+class PotatoApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
